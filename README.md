@@ -1,8 +1,4 @@
-# React + Vite
+# Statblock Exchange
+Statblock Exchange is a repository of shared rpg character builds from user's favorite games.  Characters can be optimizedd(min-max) builds, fun personal favorites, or unique homebrews for others to try out.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
