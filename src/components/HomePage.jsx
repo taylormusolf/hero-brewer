@@ -4,12 +4,12 @@ function HomePage() {
 
     return (
       <>
-        <h1>Tailor's Tavern</h1>
+        <h1>Statblock Exchange</h1>
         <h2>Share your PC and NPC builds with the world</h2>
         <div className="card">
           <h2>Choose an RPG system</h2>
           <Link to='/system/PF1e'>Pathfinder 1e</Link>
-          <button>Pathfinder 2e</button>
+          <Link to='/system/PF2e'>Pathfinder 2e</Link>
           <button>D&D 5e</button>
           <button>Marvel Multiverse RPG</button>
           <button>Starfinder 2e</button>
